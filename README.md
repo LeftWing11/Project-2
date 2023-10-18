@@ -4,9 +4,9 @@ Our Project Layout:
 - Models we will use:
 
 1. SVM
-2. Regression 
-3. Linear
-4. New Machine Learning Model (undecided)
+2. LogisticRegression 
+3. RandomForestRegressor(New Machine Learning Model)
+
 
 - We will use the following cryptocurrency:
 
@@ -14,9 +14,8 @@ Our Project Layout:
 “”
 1. Eth
 2. BTC
-3. Tether 
-4. BNB
-5. XRP
+3. BNB
+4. XRP
 
 “”
 
@@ -29,7 +28,7 @@ Modules
 
 —- Undecided Module for a new machine learning algorithm 
 
-—- PyportforlioOp will be used as the module for our efficient frontier model
+
 
 
 <img width="1136" alt="image" src="https://github.com/LeftWing11/Project-2/assets/137566806/d9fb4afd-1875-48ad-8b43-b08deea50f59">
