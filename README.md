@@ -28,6 +28,9 @@ Modules
 
 —- Undecided Module for a new machine learning algorithm 
 
+
+**Our Findings
+**
 Our Overall Strategy
 - We had a three phrase approach to conducting our analysis
   1. Conduct data collection using yfinance API, and then clean/wrangle this data before use
@@ -44,11 +47,18 @@ What Data We Used
 <img width="1136" alt="image" src="https://github.com/LeftWing11/Project-2/assets/137566806/d9fb4afd-1875-48ad-8b43-b08deea50f59">
 
 ![images](pics/image11.jpg)
+
 - SVM Model had limited accuracy and was very random in the results derived
+  
 ![images](pics/image12.jpg)
+
 - Similar to SVM, the Logistic Regression was not very accurate
+  
 ![images](pics/image13.jpg)
 ![images](pics/image14.jpg)
+
+- Similar to SVM, the Logistic Regression was not very accurate
+
 ![images](pics/image15.jpg)
 ![images](pics/image16.jpg)
 
