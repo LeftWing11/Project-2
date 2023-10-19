@@ -28,11 +28,14 @@ Modules
 
 —- Undecided Module for a new machine learning algorithm 
 
-![images](pics/image3.jpg)
-
 
 <img width="1136" alt="image" src="https://github.com/LeftWing11/Project-2/assets/137566806/d9fb4afd-1875-48ad-8b43-b08deea50f59">
 
-
+![images](pics/image11.jpg)
+![images](pics/image12.jpg)
+![images](pics/image13.jpg)
+![images](pics/image14.jpg)
+![images](pics/image15.jpg)
+![images](pics/image16.jpg)
 
 
