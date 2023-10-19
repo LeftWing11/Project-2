@@ -60,6 +60,11 @@ What Data We Used
 - Similar to SVM, the Logistic Regression was not very accurate
 
 ![images](pics/image15.jpg)
+
+The Random Forests Regression was much more accurate. We looked at percentage increases as signal, with close price data as an input which we fit to a regression random forest. This seemed to be overfit to the data, but might've been due to it predicting such small movements in data which had a linearly increasing-trend. 
 ![images](pics/image16.jpg)
 
+The final ML algorithm we fit was the Random Forests classifier to the data. We used shorter moving averages (5 days and 20) on the data given the volatile nature of the stocks and the fact that longer moving averages weren't fit as well prior. The signal was derived from when the shorter moving average moved above the long moving average. The Random forest was trained on the moving average data with the corresponding trading signal. This ML algorith appeared to work the best with high precision values and reasonable outputs when applied to the test data. 
+
+We would like to expand this Random forests analysis to include more explanatory variables and test out real time trading strategies with a wallet, a buy/sell amount and a mult-crypto portfolio
 
